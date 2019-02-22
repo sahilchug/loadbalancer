@@ -1,0 +1,9 @@
+listeners:
+  - protocol: http
+    port: 10808
+  - protocol: http
+    port: 10909
+  - protocol: http
+    port: 10907
+  - protocol: http
+    port: 10807
